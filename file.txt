@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Aziz Dzhangievich1337
+=======
+Aziz evich
+>>>>>>> new_dev
